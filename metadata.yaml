@@ -1,0 +1,28 @@
+_repo: The-Expansion-of-Europe--The-Culmination-of-Modern-History_4326
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Muir, Ramsay
+    alias: Muir, John Ramsey Bryce
+    birthdate: 1872
+    deathdate: 1941
+    gutenberg_agent_id: '1447'
+    url: http://www.gutenberg.org/2009/agents/1447
+    wikipedia: http://en.wikipedia.org/wiki/Ramsay_Muir
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- History -- 1492-'
+- !lcsh 'Colonization -- History'
+- !lcsh 'World politics'
+- GITenberg
+title: The Expansion of Europe; The Culmination of Modern History
+url: http://www.gutenberg.org/ebooks/4326
